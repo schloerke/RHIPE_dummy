@@ -1,5 +1,5 @@
-Package: RHIPE
-Title: Dummy RHIPE
+Package: Rhipe
+Title: Dummy Rhipe
 Version: 10.10.10
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
