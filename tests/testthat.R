@@ -1,4 +1,4 @@
 library(testthat)
-library(RHIPE)
+library(Rhipe)
 
-test_check("RHIPE")
+test_check("Rhipe")
