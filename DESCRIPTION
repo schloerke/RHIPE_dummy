@@ -1,8 +1,8 @@
 Package: Rhipe
 Title: Dummy Rhipe
 Version: 10.10.10
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Barret", "Schloerke", email = "schloerke@gmail.com", role = c("aut", "cre"))
+Description: Fakes the install of the R package Rhipe
 Depends:
     R (>= 3.0.0)
 Suggests:
